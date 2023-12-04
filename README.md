@@ -1,4 +1,4 @@
-# Ransomware_for_encryption
+#  MY PYTHON PROJECT 
 I have created a ransomware to simply demonstrate how easy it is to encrypt and decrypt files.
 
 what is a ransomware?
