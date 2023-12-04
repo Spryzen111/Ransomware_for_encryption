@@ -16,3 +16,4 @@ Process:
 All though ransomwares are very complex and tough but here i am just showcasing how it is done in real world.
 
 
+![Screenshot from 2023-12-04 19-46-59](https://github.com/Spryzen111/Ransomware_for_encryption/assets/111720182/fe88a414-0b07-4aa0-b9d1-096f29cd4363)
