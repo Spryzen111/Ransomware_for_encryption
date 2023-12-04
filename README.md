@@ -15,3 +15,4 @@ Process:
 
 All though ransomwares are very complex and tough but here i am just showcasing how it is done in real world.
 
+
